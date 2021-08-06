@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jabref/lib/sourcecode-0.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jabref/lib/lucene.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jabref/lib/afterburner.fx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jabref/lib/fastparse-utils-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jabref/lib/fastparse-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
